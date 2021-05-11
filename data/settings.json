@@ -2,9 +2,9 @@
 {
 	"prefix": "#",
 	"ownerNumber": "6283833271665",
-	"BarBarKey": "YourApiKey",
-	"Vhtearkey": "YourApiKey",
-	"LolHumanKey": "RamlanID",
+	"BarBarKey": "Your_ApiKey",
+	"Vhtearkey": "Your_ApiKey",
+	"LolHumanKey": "Your_Apikey",
         "Vinzapi": "apivinz",
         "Itsmeikyapi": "onlydeveloper",
 	"limit": "20",
