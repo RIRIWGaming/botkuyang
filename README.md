@@ -56,8 +56,8 @@ you've just cloned!!
 > pkg install tesseract 
 > pkg install git
 > pkg install ffmpeg
-> git clone https://github.com/RIRIWGaming/botRRWG
-> cd botRRWG
+> git clone https://github.com/RIRIWGaming/botkuyang
+> cd botkuyang
 > bash install.sh
 ```
 
